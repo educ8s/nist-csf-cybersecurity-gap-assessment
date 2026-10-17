@@ -1,4 +1,4 @@
-# NIST CSF 2.0 Cybersecurity Gap Assessment
+# NIST CSF 2.0 Cybersecurity Gap Assessment για την εταιρεία KleinoRantevou
 
 Ένα portfolio project: πλήρης αξιολόγηση κυβερνοασφάλειας πάνω σε ένα φανταστικό σενάριο εταιρείας, με βάση το **NIST Cybersecurity Framework (CSF) 2.0**.
 
